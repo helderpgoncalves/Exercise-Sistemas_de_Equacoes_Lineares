@@ -146,6 +146,12 @@ int main(int argc, char **argv)
 ## Usage
 
 Escrever num ficheiro .txt a matrix tal e como como está nesta foto. A primeira linha do ficheiro significa o numero de equações lineares neste caso é 4. As restantes linhas são as próprias equações. Deverá seguir o mesmo formato que na foto (x1, x2, x3 ,x4 : ? ).
+Como correr o programa:
+- Ir para o diretorio onde se encontra o ficheiro "trabalho"
+- Correr o mesmo através de um terminal e chamando o ficheiro .txt onde está a equação - "./trabalho matrix.txt"
+- Verificar o resultado
+
+### Exemplo do Sistema Escrito num Ficheiro .txt
 
 ![Matrix](/images/matrix.png)
 
@@ -160,8 +166,8 @@ Contributions are what make the open source community such an amazing place to b
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingEscalonamentoNovo'`)
+4. Push to the Branch (`git push origin feature/AmazingEscalonamentoNovo`)
 5. Open a Pull Request
 
 ## License
