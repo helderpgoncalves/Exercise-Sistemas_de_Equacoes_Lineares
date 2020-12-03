@@ -1,5 +1,11 @@
-# Sistemas de Equacoes Lineares - Método de Gauss
-## Exercício - MiniProjeto
+# Sistemas de Equacoes Lineares - Exercício em C
+
+## Método de Eliminação de Gauss
+
+![Gauss](/images/gauss1.png)
+![Gauss2](/images/gauss2.png)
+![Gauss3](/images/gauss3.png)
+![Gauss4](/images/gauss4.png)
 
 ## Enunciado 
 
@@ -136,3 +142,35 @@ int main(int argc, char **argv)
     return 0;
 }
 ```
+
+## Usage
+
+Escrever num ficheiro .txt a matrix tal e como como está nesta foto. A primeira linha do ficheiro significa o numero de equações lineares neste caso é 4. As restantes linhas são as próprias equações. Deverá seguir o mesmo formato que na foto (x1, x2, x3 ,x4 : ? ).
+
+![Matrix](/images/matrix.png)
+
+### Resultado
+
+![Resultado](/images/resultado.png)
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+## Contacto
+
+Your Name - [@heldinhoshotgun](https://twitter.com/heldinhoshotgun) - helderpimentaxc@gmail.com
+
+Github: [Hélder Gonçalves](https://github.com/helderpgoncalves)
